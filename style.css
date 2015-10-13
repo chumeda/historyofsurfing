@@ -1,0 +1,39 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  color: yellow;
+  background-image: url(http://www.hdwallpapersnew.net/wp-content/uploads/2015/08/wave-surfers-wide-hd-new-wallpaper-free-beautiful-desktop-images.jpg);
+  background-size: cover;
+}
+
+h1,h2 {
+  font-family: 'Bitter', sans-serif;
+  text-align: center;
+}
+
+#KellySlater {
+  background-image: url(http://chamonixinsider.files.wordpress.com/2009/09/slater2.png?w=500&h=333);
+  float: inherit;
+  width: 200px;
+  display: inline-block;
+}
+
+#MayaGabeira {
+  background-image: url(http://www.listofimages.com/wp-content/uploads/2013/01/maya-gabeira-wave-surfer-sea-underwater-surfing-sports.jpg);
+  float: inherit;
+  width: 200px;
+  display: inline-block;
+}
+
+#BethanyHamilton {
+  background-image: url(http://www.soulsurfer.com/images/about.jpg);
+  width: 200px;
+  float: inherit;
+  display: inline-block;
+}
+
+#AndyIrons {
+  background-image: url(http://www3.pictures.gi.zimbio.com/ASP+World+Tour+Billabong+Pro+Tahiti+E7BXpTq0kk0l.jpg);
+  width: 200px;
+  float: inherit;
+  display: inline-block;
+}
